@@ -27,7 +27,6 @@ $cek -> instagram_json_token(1); //Limit Ayarı
 $veri_foreach = $cek -> contents_data; // Verileri Çek
 
 print_r($veri_foreach); // Başarılı 	
-
 ?>
 
 
